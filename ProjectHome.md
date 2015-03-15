@@ -1,0 +1,1 @@
+Proyecto para la creación de un videojuego de aventura gráfica.
